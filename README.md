@@ -13,7 +13,7 @@
 <p><a href="https://ko-fi.com/fluffiflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fluffiflower" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Discord: ```lua fluffiflower [King Of Hell]#8918```
+<p align="left">Discord: **fluffiflower [King Of Hell]#8918**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
