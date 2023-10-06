@@ -1,13 +1,8 @@
 <h1 align="center">Hello, I am fluffiflower</h1>
-<h3 align="center">I'm roblox developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluffiflower&label=Profile%20views&color=0e75b6&style=flat" alt="fluffiflower" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluffiflower" alt="fluffiflower" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- ⚡ Fun fact **I'm furry**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/fluffiflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fluffiflower" /></a></p><br><br>
