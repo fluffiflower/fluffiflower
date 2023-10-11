@@ -5,7 +5,6 @@
 <h1 align="center">Hello, I am fluffiflower</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluffiflower" alt="fluffiflower" /></a> </p>
-<p><img align="center" src="fluffiflower.xyz"></a></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/fluffiflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fluffiflower" /></a></p><br><br>
 
